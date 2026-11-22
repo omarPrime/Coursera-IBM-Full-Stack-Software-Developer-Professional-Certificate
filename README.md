@@ -30,5 +30,3 @@ I'm enrolled in an IBM course on Coursera called "[IBM Full Stack Software Devel
 ----[Badge](https://www.credly.com/badges/2991961c-8f9c-4397-98c0-f1de82f00773/public_url)\
 12-[Full Stack Software Developer Assessment](https://www.coursera.org/account/accomplishments/certificate/BNC3GKQQCDE4)
 
-# Specialization Certificate
-[View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/RTBCMVFNEKJU)
